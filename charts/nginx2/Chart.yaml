@@ -2,7 +2,7 @@ annotations:
   category: Infrastructure
 apiVersion: v2
 appVersion: 1.16.0
-description: A NGINX Docker Community based Helm chart for Kubernetes
+description: Based on A NGINX Docker Community based Helm chart for Kubernetes
 home: https://github.com/Mirantis/helm-charts
 keywords:
 - nginx
@@ -11,8 +11,8 @@ keywords:
 - www
 - reverse proxy
 maintainers:
-- email: helmcharts@mirantis.com
-  name: Mirantis
+- email: yosefha@papayaglobal.com
+  name: PapayaGlobal
 name: nginx2
 sources:
 - https://github.com/mirantis/helm-charts
