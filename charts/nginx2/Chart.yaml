@@ -19,3 +19,7 @@ sources:
 - http://www.nginx.org
 type: application
 version: 0.1.0
+dependencies:
+- name: nginx
+  version: "0.1.0"
+  repository: "https://charts.mirantis.com"
